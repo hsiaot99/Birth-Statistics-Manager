@@ -1,0 +1,15 @@
+# Database Configuration
+db.server=localhost
+db.port=1433
+db.name=BirthStats
+db.user=appuser
+db.password=YourPasswordHere
+
+# Application Settings
+app.title=Birth Statistics Manager
+app.window.width=800
+app.window.height=600
+
+# CSV Import Settings
+csv.batch.size=1000
+csv.error.log=error.log
